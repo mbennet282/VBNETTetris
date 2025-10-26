@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42107: Property doesn't return a value on all code paths
+dotnet_diagnostic.BC42107.severity = error

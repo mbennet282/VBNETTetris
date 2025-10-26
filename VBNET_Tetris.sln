@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36422.26
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBNET_Tetris", "VBNET_Tetris.vbproj", "{B58C3BB6-B466-4282-B75F-7EE9B91DAE50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ACE3E487-254F-414C-AA17-9A1AAE110158}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B58C3BB6-B466-4282-B75F-7EE9B91DAE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58C3BB6-B466-4282-B75F-7EE9B91DAE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58C3BB6-B466-4282-B75F-7EE9B91DAE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58C3BB6-B466-4282-B75F-7EE9B91DAE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFAE4749-E928-4C25-99A8-25D6A5FF13B9}
+	EndGlobalSection
+EndGlobal
